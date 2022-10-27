@@ -20,6 +20,8 @@
 #    define STARTUP_SONG SONG(NO_SOUND)
 #endif
 
+#define TAPPING_TOGGLE 2
+
 #undef MOUSEKEY_INTERVAL
 #define MOUSEKEY_INTERVAL 6
 
