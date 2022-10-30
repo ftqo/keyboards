@@ -1,2 +1,0 @@
-# The ftqo Planck Layout
-
