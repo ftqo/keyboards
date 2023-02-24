@@ -184,7 +184,7 @@
       "KC_BTN3",
       "KC_NO",
       "KC_TRNS",
-      "KC_NO",
+      "LCTL(KC_GRV)",
       "LSA(KC_DOWN)",
       "LAG(KC_DOWN)",
       "LALT(KC_DOWN)",
